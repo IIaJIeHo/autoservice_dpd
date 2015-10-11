@@ -1,0 +1,13 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"phone": {
+			"name": "phone",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "phone",
+			"order": 0
+		}
+	}
+}

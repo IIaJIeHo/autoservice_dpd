@@ -1,0 +1,53 @@
+{
+	"type": "Collection",
+	"properties": {
+		"productid": {
+			"name": "productid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "productid",
+			"order": 0
+		},
+		"autoserviceid": {
+			"name": "autoserviceid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "autoserviceid",
+			"order": 1
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "name",
+			"order": 2
+		},
+		"description": {
+			"name": "description",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "description",
+			"order": 3
+		},
+		"cost": {
+			"name": "cost",
+			"type": "number",
+			"typeLabel": "number",
+			"required": true,
+			"id": "cost",
+			"order": 4
+		},
+		"approved": {
+			"name": "approved",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "approved",
+			"order": 5
+		}
+	}
+}

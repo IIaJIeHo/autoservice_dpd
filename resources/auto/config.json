@@ -1,0 +1,117 @@
+{
+	"type": "Collection",
+	"properties": {
+		"mark": {
+			"name": "mark",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "mark",
+			"order": 0
+		},
+		"model": {
+			"name": "model",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "model",
+			"order": 1
+		},
+		"generation": {
+			"name": "generation",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "generation",
+			"order": 2
+		},
+		"year": {
+			"name": "year",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "year",
+			"order": 3
+		},
+		"engine": {
+			"name": "engine",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "engine",
+			"order": 4
+		},
+		"box": {
+			"name": "box",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "box",
+			"order": 5
+		},
+		"body": {
+			"name": "body",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "body",
+			"order": 6
+		},
+		"volume": {
+			"name": "volume",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "volume",
+			"order": 7
+		},
+		"color": {
+			"name": "color",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "color",
+			"order": 8
+		},
+		"drive": {
+			"name": "drive",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "drive",
+			"order": 9
+		},
+		"mileage": {
+			"name": "mileage",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "mileage",
+			"order": 10
+		},
+		"vin": {
+			"name": "vin",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "vin",
+			"order": 11
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "name",
+			"order": 12
+		},
+		"userid": {
+			"name": "userid",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "userid",
+			"order": 13
+		}
+	}
+}
