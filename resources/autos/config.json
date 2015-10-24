@@ -112,6 +112,14 @@
 			"required": false,
 			"id": "userid",
 			"order": 13
+		},
+		"picture": {
+			"name": "picture",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "picture",
+			"order": 14
 		}
 	}
 }

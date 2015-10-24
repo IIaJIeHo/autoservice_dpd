@@ -64,6 +64,14 @@
 			"required": false,
 			"id": "details",
 			"order": 7
+		},
+		"replied": {
+			"name": "replied",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "replied",
+			"order": 8
 		}
 	}
 }
