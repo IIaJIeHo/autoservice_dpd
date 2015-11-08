@@ -21,7 +21,7 @@
 			"name": "name",
 			"type": "string",
 			"typeLabel": "string",
-			"required": true,
+			"required": false,
 			"id": "name",
 			"order": 2
 		},
@@ -29,7 +29,7 @@
 			"name": "description",
 			"type": "string",
 			"typeLabel": "string",
-			"required": true,
+			"required": false,
 			"id": "description",
 			"order": 3
 		},
@@ -37,7 +37,7 @@
 			"name": "cost",
 			"type": "number",
 			"typeLabel": "number",
-			"required": true,
+			"required": false,
 			"id": "cost",
 			"order": 4
 		},
@@ -48,6 +48,30 @@
 			"required": false,
 			"id": "approved",
 			"order": 5
+		},
+		"date": {
+			"name": "date",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "date",
+			"order": 6
+		},
+		"duration": {
+			"name": "duration",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "duration",
+			"order": 7
+		},
+		"phone": {
+			"name": "phone",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "phone",
+			"order": 8
 		}
 	}
 }

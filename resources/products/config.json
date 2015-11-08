@@ -72,6 +72,22 @@
 			"required": false,
 			"id": "replied",
 			"order": 8
+		},
+		"date": {
+			"name": "date",
+			"type": "number",
+			"typeLabel": "number",
+			"required": false,
+			"id": "date",
+			"order": 9
+		},
+		"completed": {
+			"name": "completed",
+			"type": "boolean",
+			"typeLabel": "boolean",
+			"required": false,
+			"id": "completed",
+			"order": 10
 		}
 	}
 }

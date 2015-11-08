@@ -32,6 +32,38 @@
 			"required": false,
 			"id": "email",
 			"order": 3
+		},
+		"address": {
+			"name": "address",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "address",
+			"order": 4
+		},
+		"logo": {
+			"name": "logo",
+			"type": "object",
+			"typeLabel": "object",
+			"required": false,
+			"id": "logo",
+			"order": 5
+		},
+		"site": {
+			"name": "site",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "site",
+			"order": 6
+		},
+		"link": {
+			"name": "link",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "link",
+			"order": 7
 		}
 	}
 }
